@@ -1,0 +1,8 @@
+/*--- Importar estilos globales de los OVAs ---*/
+/* Importar unicamente el index */
+
+/*--- Estilos generales ---*/
+@import url("./stylesSheet/Home.module.css");
+
+/*--- Margenes ---*/
+@import url("./stylesSheet/Margins.module.css");
